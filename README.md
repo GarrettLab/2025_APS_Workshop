@@ -1,4 +1,4 @@
-# Workshop Guidelines
+# Workshop Guidelines Aug 02 2025
 
 ## Tackling Global Challenges in Plant Pathology with AI: Forecasting, Imaging, and Protein Prediction
 
