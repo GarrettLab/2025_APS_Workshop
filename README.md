@@ -34,16 +34,16 @@ The hands-on portion of the workshop will use **Google Colab** for running code 
 We will review these during the workshop, but you're welcome to try them in advance:
 
 1. **Applying ML to Multidimensional Epidemiological Data**  
-   👉 [Open in Google Colab](#)
+   👉 [Open in Google Colab](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1AeSFSa-6CD0oLyhwG8bUnATs_fPSKB-O%3Fusp%3Ddrive_link&data=05%7C02%7Cjacoborobledobur%40ufl.edu%7Cb9e907d47b78408c86df08ddd1df5668%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638897479561052765%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=txSAsxXnX3N7KHJFV2%2FVjTLqYMHpf%2FA8nmO71s4hZNA%3D&reserved=0)
 
 2. **Building Neural Networks for Image Classification**  
-   👉 [Open in Google Colab](#)  
+   👉 [Open in Google Colab](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1VkmFzryPIrEwpzSH5HjfMoTDOHl9F81I%3Fusp%3Dsharing&data=05%7C02%7Cjacoborobledobur%40ufl.edu%7Cb9e907d47b78408c86df08ddd1df5668%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638897479561080639%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=J%2Fti%2FhpoyxetU1C6GN22xLPmOb6B9rIpgThJfry21wI%3D&reserved=0)  
    ⚠️ Be sure to enable **GPU**:  
    Go to `Runtime > Change runtime type > Hardware accelerator > GPU (T4)`
 
 3. **Exploring AlphaFold 3 for Protein Prediction**  
-   - 👉 [Open AlphaFold Server](#)  
-   - 👉 [Open UniProt Protein Structure Database](#)
+   - 👉 [Open AlphaFold Server](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Falphafoldserver.com%2Ffold%2F6a4c9bf165fe51e9&data=05%7C02%7Cjacoborobledobur%40ufl.edu%7Cb9e907d47b78408c86df08ddd1df5668%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638897479561100881%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=mk0kZq6x23UuBzd%2FWMxHCjZzJ5i41WzRjWJWtw6wy3k%3D&reserved=0)  
+   - 👉 [Open UniProt Protein Structure Database](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.uniprot.org%2F&data=05%7C02%7Cjacoborobledobur%40ufl.edu%7Cb9e907d47b78408c86df08ddd1df5668%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638897479561116116%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8pS%2FgaovJ8Z3xH5V3IiY6fsUi6Tn56R884%2FWFTcMpAA%3D&reserved=0)
 
 ---
 
